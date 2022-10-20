@@ -1,0 +1,9 @@
+frist_name= "tony"
+last_name = "Stark"
+age = 51
+talent = "genius"
+is_talent = True 
+print(frist_name)
+print(last_name)
+print(age)
+print(is_talent)
